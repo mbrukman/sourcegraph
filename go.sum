@@ -52,6 +52,7 @@ github.com/davecgh/go-spew v1.1.1 h1:vj9j/u1bqnvCEfJOwUhtlOARqs3+rkHYY13jYWTU97c
 github.com/davecgh/go-spew v1.1.1/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
 github.com/daviddengcn/go-colortext v0.0.0-20171126034257-17e75f6184bc h1:nqMZEdowWmtK9ysqvFibHJ56mTprkyE5c/6q8ZHwLc0=
 github.com/daviddengcn/go-colortext v0.0.0-20171126034257-17e75f6184bc/go.mod h1:dv4zxwHi5C/8AeI+4gX4dCWOIvNi7I6JCSX0HvlKPgE=
+github.com/daviddengcn/go-colortext v0.0.0-20181207221507-186a3d44e920/go.mod h1:dv4zxwHi5C/8AeI+4gX4dCWOIvNi7I6JCSX0HvlKPgE=
 github.com/dghubble/gologin v1.0.2-0.20181013174641-0e442dd5bb73 h1:6jaxc0Dji7N+i98tv05SdUZiQeFuUR8T+3a5mqq46bI=
 github.com/dghubble/gologin v1.0.2-0.20181013174641-0e442dd5bb73/go.mod h1:+EjjX5AiOREcyqxhz0c6I8OsL+6F9/38WD1CDcClx+Y=
 github.com/dgrijalva/jwt-go v3.2.0+incompatible h1:7qlOGliEKZXTDg6OTjfoBKDXWrumCAMpl/TFQ4/5kLM=
